@@ -13,5 +13,6 @@ yarn install
 - yarn android
 
 2. ios
-1. cd ios/ pod install
-1. open Xcode/ run ios
+
+- cd ios/ pod install
+- open Xcode/ run ios
